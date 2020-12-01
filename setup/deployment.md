@@ -79,7 +79,7 @@ Starting from a fresh Amazon Linux 2 instance
 FLASK_ENV=production
 FLASK_APP=api/__main__.py
 
-FRONTEND_URL=https://freeman91.github.io/OSUMC-Cultural-Awareness-App
+FRONTEND_URL=https://osumc-cultural-awareness.github.io/app/
 
 MONGO_URI='mongodb+srv://ec2-user:<password>@data-cluster.tjzlp.mongodb.net/database?retryWrites=true&w=majority'
 MONGO_INITDB_DATABASE=database
